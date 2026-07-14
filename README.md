@@ -1,4 +1,4 @@
-## Hi, I'm Tim 👋
+## Hi, I'm Tim Goodwin 👋
 
 SRE and DevOps engineer focused on **observability**, **Kubernetes**, and **automation**.
 
@@ -19,4 +19,4 @@ SRE and DevOps engineer focused on **observability**, **Kubernetes**, and **auto
 - Exploring AI-assisted SRE workflows with Dynatrace MCP
 - Open to SRE, Platform Engineering, and Observability roles
 
-📫 Reach me at tdgoodwin1983@gmail.com
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/timothy-goodwin-8873199b) or at tdgoodwin1983@gmail.com
